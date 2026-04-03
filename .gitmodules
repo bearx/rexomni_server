@@ -1,0 +1,3 @@
+[submodule "Rex-Omni"]
+	path = Rex-Omni
+	url = https://github.com/IDEA-Research/Rex-Omni.git

@@ -1,0 +1,12 @@
+accelerate
+gradio
+gradio_image_prompter
+matplotlib
+numpy
+opencv-python
+pydantic
+qwen_vl_utils
+torch
+torchvision
+transformers
+vllm
